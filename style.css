@@ -1,0 +1,43 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+.background{
+    background-color: aliceblue;
+    }
+
+.title{
+    background-color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+    }
+
+.banner{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#top{   
+    background-color: pink;
+}
+
+#middle{
+    background-color: aquamarine;
+ }
+
+#bottom{
+    background-color: azure;
+}
+
+img{
+    height: 200px;
+    }
+.source{
+    display: flex;
+    justify-content: center;
+}
+a{
+    color: cyan;
+}
