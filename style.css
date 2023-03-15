@@ -33,6 +33,7 @@
 
 img{
     height: 200px;
+    padding:10px;
     }
 .source{
     display: flex;
